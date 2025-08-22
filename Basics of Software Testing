@@ -1,1 +1,9 @@
-
+1. Explain your Software Testing Life Cycle (STLC) experience.
+Answer:
+In my current role, I follow the STLC phases:
+Requirement Analysis – Reviewing business/functional requirements, clarifying gaps with stakeholders.
+Test Planning – Preparing test strategy, estimating effort, identifying tools, defining entry/exit criteria.
+Test Case Design – Writing detailed test cases and preparing test data.
+Test Execution – Executing tests, logging defects, retesting and regression testing.
+Defect Reporting & Tracking – Logging defects with detailed steps, severity, and priority in JIRA.
+Test Closure – Preparing metrics (defect density, pass/fail rate, requirement coverage) and retrospective analysis.
